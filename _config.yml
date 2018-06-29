@@ -1,17 +1,17 @@
-typography_spectrum: 0.09751447988674045
+layout_spectrum: 0.5954440017015037
+typography_spectrum: 0.6958497019102888
 color:
   brandColors:
-    - '#8591A9'
-    - '#BAC6D4'
-    - '#EBDBCC'
-    - '#1F3B25'
-    - '#53735B'
-  brandStrength: 0.017863625194877386
-  lightness: 0.912511927774176
-  saturation: 0.48995081591419876
-  rhythmicContrast: 0.9496178184635937
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.4066411057602393
+  lightness: 0.6483662671299817
+  saturation: 0.26244800375295013
+  rhythmicContrast: 0.7761910414634882
 github: true
-layout_spectrum: 0.09751435741782188
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98d8ae2-d91e-44c0-8be4-495bdcccb282.png
 name: megalight

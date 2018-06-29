@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: там домики
-dateModified: '2018-06-29T08:57:45.833Z'
-datePublished: '2018-06-29T08:57:48.862Z'
+dateModified: '2018-06-29T08:58:10.258Z'
+datePublished: '2018-06-29T08:58:11.029Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-06-29-tam-domiki.md
 starred: false
 datePublishedOriginal: '2018-06-29T08:57:48.862Z'
-sourcePath: _posts/2018-06-29-tam-domiki.md
 url: tam-domiki/index.html
 _type: Article
 

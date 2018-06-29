@@ -32,28 +32,5 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/22df7538-f15c-460b-b4b6-a2c3a866ddc6.jpg
 title: ПЛАН
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: '<img src="http://sorus.ucoz.ru/_nw/315/92262264.gif">'
-    src: 'http://sorus.ucoz.ru/_nw/315/92262264.gif'
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'http://sorus.ucoz.ru'
-        name: Ucoz
-        favicon: 'http://sorus.ucoz.ru/favicon.ico'
-        domain: sorus.ucoz.ru
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: 'http://sorus.ucoz.ru/_nw/315/92262264.gif'
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: классный сайт

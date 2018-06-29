@@ -1,0 +1,55 @@
+typography_spectrum: 0.09751447988674045
+color:
+  brandColors:
+    - '#8591A9'
+    - '#BAC6D4'
+    - '#EBDBCC'
+    - '#1F3B25'
+    - '#53735B'
+  brandStrength: 0.017863625194877386
+  lightness: 0.912511927774176
+  saturation: 0.48995081591419876
+  rhythmicContrast: 0.9496178184635937
+layout_spectrum: 0.09751435741782188
+name: megalight
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+title: Мегалайт
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://www.cruzo.net/user/images/k/ecc3ecf42c75db1ffce5d06cbe95b1e6_644.jpg">
+    src: >-
+      https://www.cruzo.net/user/images/k/ecc3ecf42c75db1ffce5d06cbe95b1e6_644.jpg
+    metadata:
+      datePublished: null
+      isBasedOnUrl: >-
+        https://www.cruzo.net/user/images/k/ecc3ecf42c75db1ffce5d06cbe95b1e6_644.jpg
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://www.cruzo.net'
+        name: Cruzo
+        favicon: 'https://www.cruzo.net/favicon.ico'
+        domain: www.cruzo.net
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: классный сайт
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98d8ae2-d91e-44c0-8be4-495bdcccb282.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22df7538-f15c-460b-b4b6-a2c3a866ddc6.jpg

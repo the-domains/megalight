@@ -1,4 +1,3 @@
-layout_spectrum: 0.5954440017015037
 typography_spectrum: 0.6958497019102888
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.26244800375295013
   rhythmicContrast: 0.7761910414634882
 github: true
+layout_spectrum: 0.5954440017015037
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98d8ae2-d91e-44c0-8be4-495bdcccb282.png
 name: megalight
@@ -25,6 +25,9 @@ colors:
 navigation:
   - name: ghbewpgfrm
     id: 3eb539fc-f766-42bc-9471-74ffe36e09e8
+    type: content
+  - name: Там домики
+    id: 67f3079e-00a3-46f5-9d2f-8b5cb9715968
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/22df7538-f15c-460b-b4b6-a2c3a866ddc6.jpg

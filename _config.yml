@@ -10,7 +10,10 @@ color:
   lightness: 0.912511927774176
   saturation: 0.48995081591419876
   rhythmicContrast: 0.9496178184635937
+github: true
 layout_spectrum: 0.09751435741782188
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98d8ae2-d91e-44c0-8be4-495bdcccb282.png
 name: megalight
 colors:
   brandColors:
@@ -19,6 +22,12 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: домики
+    id: 3eb539fc-f766-42bc-9471-74ffe36e09e8
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22df7538-f15c-460b-b4b6-a2c3a866ddc6.jpg
 title: Мегалайт
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -55,26 +64,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f160231-b98f-41b3-a30b-81411ec9e737.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: классный сайт
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98d8ae2-d91e-44c0-8be4-495bdcccb282.png
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22df7538-f15c-460b-b4b6-a2c3a866ddc6.jpg

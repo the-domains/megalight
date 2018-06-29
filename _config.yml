@@ -31,7 +31,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/22df7538-f15c-460b-b4b6-a2c3a866ddc6.jpg
-title: Мегалайт
+title: ПЛАН
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image

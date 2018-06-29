@@ -4,15 +4,22 @@
         <description><![CDATA[Мегалайт]]></description>
         <link>https://thegrid.ai/megalight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jun 2018 08:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jun 2018 08:41:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/megalight/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Jun 2018 08:27:40 GMT</pubDate>
+        <pubDate>Fri, 29 Jun 2018 08:41:26 GMT</pubDate>
         <item>
             <title><![CDATA[Привет это домики]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7a97524-0b3b-4d60-b360-ff352b972820.jpg" title="&dcy;&ocy;&mcy;&icy;&kcy;&icy;" alt="&kcy;&lcy;&acy;&scy;&scy;">,<h3>Привет это домики</h3>]]></description>
             <link>https://thegrid.ai/megalight/privet-eto-domiki/index.html</link>
             <guid isPermaLink="false">69c94e50-d9af-4f07-8a24-d88c27fb7c3e</guid>
             <pubDate>Fri, 29 Jun 2018 08:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Интересные домики</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db0120b8-328d-4bb2-a7c9-0e833fef3569.jpg">,<p>гифка класс</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ce64742-57db-46bb-a4e1-598d55d2cbaf.gif">,<p>План </p>,<ol><li>создать </li></ol>]]></description>
+            <link>https://thegrid.ai/megalight/interesnye-domiki/index.html</link>
+            <guid isPermaLink="false">3eb539fc-f766-42bc-9471-74ffe36e09e8</guid>
+            <pubDate>Fri, 29 Jun 2018 08:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

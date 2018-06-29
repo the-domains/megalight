@@ -23,11 +23,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: ghbewpgfrm
-    id: 3eb539fc-f766-42bc-9471-74ffe36e09e8
-    type: content
   - name: Там домики
     id: 67f3079e-00a3-46f5-9d2f-8b5cb9715968
+    type: content
+  - name: ghbewpgfrm
+    id: 3eb539fc-f766-42bc-9471-74ffe36e09e8
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/22df7538-f15c-460b-b4b6-a2c3a866ddc6.jpg
